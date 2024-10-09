@@ -1,13 +1,12 @@
 # Project Title
 
 ## 1. Project Description
-State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
-This browser based web application to ... 
+Alertogo is a commuter’s virtual bulletin board, where you can post, and view reports of unsafe incidents, outages, or just overall crowdedness on transit when they happen.  
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* ...
-* ...
+* Leslie
+* Ted
 * ...
 	
 ## 3. Technologies and Resources Used
